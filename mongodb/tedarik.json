@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "69568b915893a534efa43c44"
+  },
+  "TedarikNo": 35,
+  "TedarikTarihi": "2024-07-09",
+  "TedarikMiktar": 150,
+  "TedariciID": "412365009",
+  "UrunID": 2147
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c45"
+  },
+  "TedarikNo": 35,
+  "TedarikTarihi": "2025-07-09",
+  "TedarikMiktar": 100,
+  "TedariciID": "423698520",
+  "UrunID": 4512
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c46"
+  },
+  "TedarikNo": 36,
+  "TedarikTarihi": "2025-07-04",
+  "TedarikMiktar": 190,
+  "TedariciID": "423698520",
+  "UrunID": 2354
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c47"
+  },
+  "TedarikNo": 37,
+  "TedarikTarihi": "2025-07-09",
+  "TedarikMiktar": 190,
+  "TedariciID": "412365009",
+  "UrunID": 1785
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c48"
+  },
+  "TedarikNo": 37,
+  "TedarikTarihi": "2023-07-09",
+  "TedarikMiktar": 110,
+  "TedariciID": "458545667",
+  "UrunID": 3652
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c49"
+  },
+  "TedarikNo": 38,
+  "TedarikTarihi": "2023-08-14",
+  "TedarikMiktar": 160,
+  "TedariciID": "412365009",
+  "UrunID": 2123
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c4a"
+  },
+  "TedarikNo": 39,
+  "TedarikTarihi": "2024-07-14",
+  "TedarikMiktar": 150,
+  "TedariciID": "423698520",
+  "UrunID": 3475
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c4b"
+  },
+  "TedarikNo": 40,
+  "TedarikTarihi": "2025-07-19",
+  "TedarikMiktar": 192,
+  "TedariciID": "458545667",
+  "UrunID": 1985
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c4c"
+  },
+  "TedarikNo": 40,
+  "TedarikTarihi": "2024-07-09",
+  "TedarikMiktar": 112,
+  "TedariciID": "451258784",
+  "UrunID": 2123
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c4d"
+  },
+  "TedarikNo": 41,
+  "TedarikTarihi": "2024-06-19",
+  "TedarikMiktar": 172,
+  "TedariciID": "458545667",
+  "UrunID": 1985
+},
+{
+  "_id": {
+    "$oid": "69568b915893a534efa43c4e"
+  },
+  "TedarikNo": 42,
+  "TedarikTarihi": "2024-06-19",
+  "TedarikMiktar": 195,
+  "TedariciID": "451258784",
+  "UrunID": 1985
+}]

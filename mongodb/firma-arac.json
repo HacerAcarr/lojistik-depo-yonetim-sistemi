@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "695686345893a534efa43bca"
+  },
+  "FirmaAracID": 1,
+  "Plaka": "38 TKS 001",
+  "AracModel": "Doblo",
+  "AracMarka": "Fiat"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bcb"
+  },
+  "FirmaAracID": 2,
+  "Plaka": "38 TKS 003",
+  "AracModel": "Doblo",
+  "AracMarka": "Fiat"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bcc"
+  },
+  "FirmaAracID": 3,
+  "Plaka": "06 TMS 201",
+  "AracModel": "Transit Courier",
+  "AracMarka": "Ford"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bcd"
+  },
+  "FirmaAracID": 4,
+  "Plaka": "38 AKB 701",
+  "AracModel": "Partner",
+  "AracMarka": "Peugeot"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bce"
+  },
+  "FirmaAracID": 5,
+  "Plaka": "38 TKS 801",
+  "AracModel": "Kangoo",
+  "AracMarka": "Renault"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bcf"
+  },
+  "FirmaAracID": 6,
+  "Plaka": "06 TZC 451",
+  "AracModel": "Transit Courier",
+  "AracMarka": "Ford"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bd0"
+  },
+  "FirmaAracID": 7,
+  "Plaka": "06 AKB 814",
+  "AracModel": "Transit Courier",
+  "AracMarka": "Ford"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bd1"
+  },
+  "FirmaAracID": 8,
+  "Plaka": "06 EBB 951",
+  "AracModel": "Combo",
+  "AracMarka": "Opel"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bd2"
+  },
+  "FirmaAracID": 9,
+  "Plaka": "38 HNS 017",
+  "AracModel": "Transit Courier",
+  "AracMarka": "Ford"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bd3"
+  },
+  "FirmaAracID": 10,
+  "Plaka": "38 BBC 177",
+  "AracModel": "Transit Courier",
+  "AracMarka": "Ford"
+},
+{
+  "_id": {
+    "$oid": "695686345893a534efa43bd4"
+  },
+  "FirmaAracID": 11,
+  "Plaka": "06 LKS 687",
+  "AracModel": "Transit Courier",
+  "AracMarka": "Ford"
+}]

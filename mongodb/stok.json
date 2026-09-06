@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "69568a285893a534efa43c27"
+  },
+  "StokID": 103,
+  "StokMiktar": 10,
+  "StokGirisTarihi": "2023-07-20",
+  "RafID": "10",
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c28"
+  },
+  "StokID": 110,
+  "StokMiktar": 8,
+  "StokGirisTarihi": "2025-07-20",
+  "RafID": "11",
+  "DepoID": 2
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c29"
+  },
+  "StokID": 203,
+  "StokMiktar": 30,
+  "StokGirisTarihi": "2024-07-10",
+  "RafID": "21",
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c2a"
+  },
+  "StokID": 209,
+  "StokMiktar": 10,
+  "StokGirisTarihi": "2025-07-10",
+  "RafID": "20",
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c2b"
+  },
+  "StokID": 210,
+  "StokMiktar": 100,
+  "StokGirisTarihi": "2023-07-10",
+  "RafID": "20",
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c2c"
+  },
+  "StokID": 215,
+  "StokMiktar": 40,
+  "StokGirisTarihi": "2025-07-20",
+  "RafID": "22",
+  "DepoID": 3
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c2d"
+  },
+  "StokID": 305,
+  "StokMiktar": 50,
+  "StokGirisTarihi": "2024-07-15",
+  "RafID": "30",
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c2e"
+  },
+  "StokID": 310,
+  "StokMiktar": 15,
+  "StokGirisTarihi": "2022-07-15",
+  "RafID": "31",
+  "DepoID": 2
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c2f"
+  },
+  "StokID": 320,
+  "StokMiktar": 30,
+  "StokGirisTarihi": "2025-07-15",
+  "RafID": "32",
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c30"
+  },
+  "StokID": 406,
+  "StokMiktar": 20,
+  "StokGirisTarihi": "2024-07-05",
+  "RafID": "40",
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "69568a285893a534efa43c31"
+  },
+  "StokID": 506,
+  "StokMiktar": 150,
+  "StokGirisTarihi": "2023-07-30",
+  "RafID": "50",
+  "DepoID": 3
+}]

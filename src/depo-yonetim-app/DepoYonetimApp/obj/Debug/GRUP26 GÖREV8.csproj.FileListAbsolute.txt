@@ -1,0 +1,54 @@
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.exe.config
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.exe
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.pdb
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforEkle.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforGuncelle.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforleriListele.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforSil.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.GRUP26.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracEkle.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracListele.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracSil.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmAracGuncelle.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.Properties.Resources.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.GenerateResource.cache
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.exe
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.pdb
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.exe.config
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.exe
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.pdb
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforEkle.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforGuncelle.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforleriListele.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforSil.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.GRUP26.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracEkle.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracListele.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracSil.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmAracGuncelle.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.Properties.Resources.resources
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.GenerateResource.cache
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.exe
+C:\Users\hunte\OneDrive\Desktop\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.pdb
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.exe.config
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.exe
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\bin\Debug\GRUP26 GÖREV8.pdb
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.AssemblyReference.cache
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforEkle.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforGuncelle.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforleriListele.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormSoforSil.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.GRUP26.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracEkle.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracListele.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmaAracSil.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.FormFirmAracGuncelle.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26_GÖREV8.Properties.Resources.resources
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.GenerateResource.cache
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.csproj.CoreCompileInputs.cache
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.exe
+E:\GRUP26 GÖREV8 C#\GRUP26 GÖREV8\obj\Debug\GRUP26 GÖREV8.pdb

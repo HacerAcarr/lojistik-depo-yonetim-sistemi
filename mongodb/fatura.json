@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "695685865893a534efa43bbf"
+  },
+  "FaturaID": 601,
+  "SiparisID": 10,
+  "MusteriID": 1,
+  "FaturaKDV": 20,
+  "FaturaTarihi": "2024-09-10",
+  "FaturaToplamTutar": 3300
+},
+{
+  "_id": {
+    "$oid": "695685865893a534efa43bc0"
+  },
+  "FaturaID": 602,
+  "SiparisID": 11,
+  "MusteriID": 2,
+  "FaturaKDV": 70,
+  "FaturaTarihi": "2025-09-10",
+  "FaturaToplamTutar": 6630
+},
+{
+  "_id": {
+    "$oid": "695685865893a534efa43bc1"
+  },
+  "FaturaID": 603,
+  "SiparisID": 12,
+  "MusteriID": 3,
+  "FaturaKDV": 40,
+  "FaturaTarihi": "2025-09-10",
+  "FaturaToplamTutar": 2877
+},
+{
+  "_id": {
+    "$oid": "695685865893a534efa43bc2"
+  },
+  "FaturaID": 604,
+  "SiparisID": 13,
+  "MusteriID": 4,
+  "FaturaKDV": 20,
+  "FaturaTarihi": "2023-09-10",
+  "FaturaToplamTutar": 2604
+},
+{
+  "_id": {
+    "$oid": "695685865893a534efa43bc3"
+  },
+  "FaturaID": 605,
+  "SiparisID": 14,
+  "MusteriID": 5,
+  "FaturaKDV": 50,
+  "FaturaTarihi": "2025-09-11",
+  "FaturaToplamTutar": 4425
+},
+{
+  "_id": {
+    "$oid": "695685865893a534efa43bc4"
+  },
+  "FaturaID": 606,
+  "SiparisID": 15,
+  "MusteriID": 6,
+  "FaturaKDV": 20,
+  "FaturaTarihi": "2024-09-11",
+  "FaturaToplamTutar": 2970
+},
+{
+  "_id": {
+    "$oid": "695685865893a534efa43bc5"
+  },
+  "FaturaID": 607,
+  "SiparisID": 16,
+  "MusteriID": 7,
+  "FaturaKDV": 30,
+  "FaturaTarihi": "2025-09-12",
+  "FaturaToplamTutar": 4212
+},
+{
+  "_id": {
+    "$oid": "695685865893a534efa43bc6"
+  },
+  "FaturaID": 608,
+  "SiparisID": 19,
+  "MusteriID": 8,
+  "FaturaKDV": 20,
+  "FaturaTarihi": "2023-09-14",
+  "FaturaToplamTutar": 2880
+}]

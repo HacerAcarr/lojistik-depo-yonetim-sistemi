@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "695687a45893a534efa43be6"
+  },
+  "MusteriID": 1,
+  "VergiNo": "15246798",
+  "MusteriAdSoyad": "Ali VURAL",
+  "MusteriDogumGunu": "2004-07-07",
+  "MusteriSehir": "Ankara",
+  "NusteriEposta": "alivural2004@gmail.com",
+  "MusteriTel": "5525486235",
+  "MusteriCinsiyet": "ERKEK"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43be7"
+  },
+  "MusteriID": 2,
+  "VergiNo": "14315792",
+  "MusteriAdSoyad": "Ömer ALACA",
+  "MusteriDogumGunu": "2005-06-26",
+  "MusteriSehir": "Ankara",
+  "NusteriEposta": "omeralaca@gmail.com",
+  "MusteriTel": "5478529632",
+  "MusteriCinsiyet": "ERKEK"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43be8"
+  },
+  "MusteriID": 3,
+  "VergiNo": "14318795",
+  "MusteriAdSoyad": "Ajda ENDER",
+  "MusteriDogumGunu": "2004-05-15",
+  "MusteriSehir": "Kayseri",
+  "NusteriEposta": "aender2004@gmail.com",
+  "MusteriTel": "5147895263",
+  "MusteriCinsiyet": "KADIN"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43be9"
+  },
+  "MusteriID": 4,
+  "VergiNo": "14619573",
+  "MusteriAdSoyad": "Gökçe Eda ARSLAN",
+  "MusteriDogumGunu": "1982-09-13",
+  "MusteriSehir": "Izmir",
+  "NusteriEposta": "arslangokceeda@gmail.com",
+  "MusteriTel": "5248523695",
+  "MusteriCinsiyet": "KADIN"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43bea"
+  },
+  "MusteriID": 5,
+  "VergiNo": "15124372",
+  "MusteriAdSoyad": "Merve AKYILDIZ",
+  "MusteriDogumGunu": "2001-04-27",
+  "MusteriSehir": "Kirsehir",
+  "NusteriEposta": "akyildiz@gmail.com",
+  "MusteriTel": "5758963215",
+  "MusteriCinsiyet": "KADIN"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43beb"
+  },
+  "MusteriID": 6,
+  "VergiNo": "11275462",
+  "MusteriAdSoyad": "Ecrin Tuana SANCAK",
+  "MusteriDogumGunu": "2003-10-30",
+  "MusteriSehir": "Bursa",
+  "NusteriEposta": "sancak30102000@gmail.com",
+  "MusteriTel": "5735879548",
+  "MusteriCinsiyet": "KADIN"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43bec"
+  },
+  "MusteriID": 7,
+  "VergiNo": "12451672",
+  "MusteriAdSoyad": "Hatice UYSAL",
+  "MusteriDogumGunu": "1996-11-17",
+  "MusteriSehir": "Izmir",
+  "NusteriEposta": "haticeuysal2020@gmail.com",
+  "MusteriTel": "5987772541",
+  "MusteriCinsiyet": "KADIN"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43bed"
+  },
+  "MusteriID": 8,
+  "VergiNo": "19465425",
+  "MusteriAdSoyad": "Neriman SALLAN",
+  "MusteriDogumGunu": "1987-03-25",
+  "MusteriSehir": "Sivas",
+  "NusteriEposta": "sallanneriman1987@gmail.com",
+  "MusteriTel": "5213565445",
+  "MusteriCinsiyet": "KADIN"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43bee"
+  },
+  "MusteriID": 9,
+  "VergiNo": "155551895",
+  "MusteriAdSoyad": "Keriman KUZU",
+  "MusteriDogumGunu": "1998-03-24",
+  "MusteriSehir": "Kirsehir",
+  "NusteriEposta": "kerimankuzu0324@gmail.com",
+  "MusteriTel": "5296365445",
+  "MusteriCinsiyet": "KADIN"
+},
+{
+  "_id": {
+    "$oid": "695687a45893a534efa43bef"
+  },
+  "MusteriID": 10,
+  "VergiNo": "19875225",
+  "MusteriAdSoyad": "Aybüke GÜL",
+  "MusteriDogumGunu": "2001-07-31",
+  "MusteriSehir": "Kirsehir",
+  "NusteriEposta": "aybukegul2001@gmail.com",
+  "MusteriTel": "5287465445",
+  "MusteriCinsiyet": "KADIN"
+}]

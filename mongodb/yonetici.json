@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69568d7d5893a534efa43c87"
+  },
+  "YoneticiID": 10003,
+  "DeneyimYili": 19,
+  "YoneticiMaas": 250000
+},
+{
+  "_id": {
+    "$oid": "69568d7d5893a534efa43c88"
+  },
+  "YoneticiID": 10004,
+  "DeneyimYili": 15,
+  "YoneticiMaas": 100000
+},
+{
+  "_id": {
+    "$oid": "69568d7d5893a534efa43c89"
+  },
+  "YoneticiID": 10005,
+  "DeneyimYili": 5,
+  "YoneticiMaas": 150000
+},
+{
+  "_id": {
+    "$oid": "69568d7d5893a534efa43c8a"
+  },
+  "YoneticiID": 10006,
+  "DeneyimYili": 4,
+  "YoneticiMaas": 85000
+},
+{
+  "_id": {
+    "$oid": "69568d7d5893a534efa43c8b"
+  },
+  "YoneticiID": 10007,
+  "DeneyimYili": 16,
+  "YoneticiMaas": 120000
+}]

@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c19"
+  },
+  "EhliyetNo": 321,
+  "SoforAdSoyad": "Ali TOPRAK",
+  "LisansSinifi": "B",
+  "MusaitlikDurumu": "Müsait Degil",
+  "FirmaAracID": 1
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c1a"
+  },
+  "EhliyetNo": 327,
+  "SoforAdSoyad": "Kemal ULU",
+  "LisansSinifi": "A",
+  "MusaitlikDurumu": "Müsait",
+  "FirmaAracID": 2
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c1b"
+  },
+  "EhliyetNo": 329,
+  "SoforAdSoyad": "Riza KÜÇÜK",
+  "LisansSinifi": "B",
+  "MusaitlikDurumu": "Müsait",
+  "FirmaAracID": 3
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c1c"
+  },
+  "EhliyetNo": 331,
+  "SoforAdSoyad": "Mert SAGLAM",
+  "LisansSinifi": "B",
+  "MusaitlikDurumu": "Müsait Degil",
+  "FirmaAracID": 4
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c1d"
+  },
+  "EhliyetNo": 347,
+  "SoforAdSoyad": "Can YAMAN",
+  "LisansSinifi": "A",
+  "MusaitlikDurumu": "Müsait Degil",
+  "FirmaAracID": 5
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c1e"
+  },
+  "EhliyetNo": 354,
+  "SoforAdSoyad": "Abdullah GÜLEÇ",
+  "LisansSinifi": "B",
+  "MusaitlikDurumu": "Müsait",
+  "FirmaAracID": 6
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c1f"
+  },
+  "EhliyetNo": 367,
+  "SoforAdSoyad": "Erkan ARAL",
+  "LisansSinifi": "B",
+  "MusaitlikDurumu": "Müsait Degil",
+  "FirmaAracID": 10
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c20"
+  },
+  "EhliyetNo": 369,
+  "SoforAdSoyad": "Ahmet USLU",
+  "LisansSinifi": "A",
+  "MusaitlikDurumu": "Müsait",
+  "FirmaAracID": 7
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c21"
+  },
+  "EhliyetNo": 378,
+  "SoforAdSoyad": "Ali GÜRBÜZ",
+  "LisansSinifi": "B",
+  "MusaitlikDurumu": "Müsait Degil",
+  "FirmaAracID": 11
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c22"
+  },
+  "EhliyetNo": 387,
+  "SoforAdSoyad": "Kenan SAKLI",
+  "LisansSinifi": "B",
+  "MusaitlikDurumu": "Müsait Degil",
+  "FirmaAracID": 8
+},
+{
+  "_id": {
+    "$oid": "695689ae5893a534efa43c23"
+  },
+  "EhliyetNo": 397,
+  "SoforAdSoyad": "Nur GÜZEL",
+  "LisansSinifi": "A",
+  "MusaitlikDurumu": "Müsait",
+  "FirmaAracID": 9
+}]

@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c35"
+  },
+  "TasimaID": 910,
+  "TakipNo": "86520",
+  "TeslimTarihi": "2025-09-19",
+  "FirmaAracID": 4,
+  "EhliyetNo": 387
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c36"
+  },
+  "TasimaID": 923,
+  "TakipNo": "80321",
+  "TeslimTarihi": "2025-09-15",
+  "FirmaAracID": 5,
+  "EhliyetNo": 354
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c37"
+  },
+  "TasimaID": 930,
+  "TakipNo": "89652",
+  "TeslimTarihi": "2025-09-20",
+  "FirmaAracID": 8,
+  "EhliyetNo": 327
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c38"
+  },
+  "TasimaID": 940,
+  "TakipNo": "87410",
+  "TeslimTarihi": "2025-09-20",
+  "FirmaAracID": 6,
+  "EhliyetNo": 329
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c39"
+  },
+  "TasimaID": 956,
+  "TakipNo": "85462",
+  "TeslimTarihi": "2025-09-15",
+  "FirmaAracID": 1,
+  "EhliyetNo": 369
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c3a"
+  },
+  "TasimaID": 960,
+  "TakipNo": "84520",
+  "TeslimTarihi": "2025-09-18",
+  "FirmaAracID": 9,
+  "EhliyetNo": 347
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c3b"
+  },
+  "TasimaID": 975,
+  "TakipNo": "87520",
+  "TeslimTarihi": "2025-09-22",
+  "FirmaAracID": 3,
+  "EhliyetNo": 331
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c3c"
+  },
+  "TasimaID": 987,
+  "TakipNo": "84521",
+  "TeslimTarihi": "2025-09-16",
+  "FirmaAracID": 2,
+  "EhliyetNo": 321
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c3d"
+  },
+  "TasimaID": 993,
+  "TakipNo": "84245",
+  "TeslimTarihi": "2025-09-21",
+  "FirmaAracID": 9,
+  "EhliyetNo": 354
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c3e"
+  },
+  "TasimaID": 994,
+  "TakipNo": "86325",
+  "TeslimTarihi": "2025-09-16",
+  "FirmaAracID": 10,
+  "EhliyetNo": 331
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c3f"
+  },
+  "TasimaID": 996,
+  "TakipNo": "87452",
+  "TeslimTarihi": "2025-09-18",
+  "FirmaAracID": 7,
+  "EhliyetNo": 369
+},
+{
+  "_id": {
+    "$oid": "69568a8f5893a534efa43c40"
+  },
+  "TasimaID": 997,
+  "TakipNo": "89541",
+  "TeslimTarihi": "2025-09-04",
+  "FirmaAracID": 11,
+  "EhliyetNo": 369
+}]

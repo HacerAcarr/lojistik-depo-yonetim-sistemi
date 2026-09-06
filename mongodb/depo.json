@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "695685315893a534efa43bb9"
+  },
+  "DepoID": 1,
+  "DepoSehir": "Kayseri",
+  "DepoAd": "KayDepo",
+  "DepoDolulukOrani": 0.3
+},
+{
+  "_id": {
+    "$oid": "695685315893a534efa43bba"
+  },
+  "DepoID": 2,
+  "DepoSehir": "Ankara",
+  "DepoAd": "AnkaDepo",
+  "DepoDolulukOrani": 0.45
+},
+{
+  "_id": {
+    "$oid": "695685315893a534efa43bbb"
+  },
+  "DepoID": 3,
+  "DepoSehir": "Izmir",
+  "DepoAd": "IzDepo",
+  "DepoDolulukOrani": 0.6
+}]

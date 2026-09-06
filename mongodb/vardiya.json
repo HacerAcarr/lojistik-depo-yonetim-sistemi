@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c6d"
+  },
+  "VardiyaID": 701,
+  "VardiyaTuru": "Gece",
+  "VardiyaTarih": "2022-09-20",
+  "VardiyaBaslangicSaat": "00:00:00",
+  "VardiyaBitisSaat": "08:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c6e"
+  },
+  "VardiyaID": 702,
+  "VardiyaTuru": "Gece",
+  "VardiyaTarih": "2022-09-20",
+  "VardiyaBaslangicSaat": "00:00:00",
+  "VardiyaBitisSaat": "08:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c6f"
+  },
+  "VardiyaID": 703,
+  "VardiyaTuru": "Gece",
+  "VardiyaTarih": "2023-09-21",
+  "VardiyaBaslangicSaat": "00:00:00",
+  "VardiyaBitisSaat": "08:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c70"
+  },
+  "VardiyaID": 704,
+  "VardiyaTuru": "Gece",
+  "VardiyaTarih": "2025-09-21",
+  "VardiyaBaslangicSaat": "00:00:00",
+  "VardiyaBitisSaat": "08:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c71"
+  },
+  "VardiyaID": 705,
+  "VardiyaTuru": "Gece",
+  "VardiyaTarih": "2025-09-21",
+  "VardiyaBaslangicSaat": "00:00:00",
+  "VardiyaBitisSaat": "08:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c72"
+  },
+  "VardiyaID": 801,
+  "VardiyaTuru": "Gündüz",
+  "VardiyaTarih": "2024-09-20",
+  "VardiyaBaslangicSaat": "08:00:00",
+  "VardiyaBitisSaat": "23:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c73"
+  },
+  "VardiyaID": 802,
+  "VardiyaTuru": "Gündüz",
+  "VardiyaTarih": "2024-09-20",
+  "VardiyaBaslangicSaat": "08:00:00",
+  "VardiyaBitisSaat": "23:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c74"
+  },
+  "VardiyaID": 803,
+  "VardiyaTuru": "Gündüz",
+  "VardiyaTarih": "2023-09-21",
+  "VardiyaBaslangicSaat": "08:00:00",
+  "VardiyaBitisSaat": "23:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c75"
+  },
+  "VardiyaID": 804,
+  "VardiyaTuru": "Gündüz",
+  "VardiyaTarih": "2023-09-21",
+  "VardiyaBaslangicSaat": "08:00:00",
+  "VardiyaBitisSaat": "23:00:00"
+},
+{
+  "_id": {
+    "$oid": "69568cce5893a534efa43c76"
+  },
+  "VardiyaID": 805,
+  "VardiyaTuru": "Gündüz",
+  "VardiyaTarih": "2023-09-21",
+  "VardiyaBaslangicSaat": "08:00:00",
+  "VardiyaBitisSaat": "23:00:00"
+}]

@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c5f"
+  },
+  "UrunID": 1785,
+  "UrunAd": "Ceket",
+  "KategoriNo": 101,
+  "StokID": 103
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c60"
+  },
+  "UrunID": 1985,
+  "UrunAd": "Kaban",
+  "KategoriNo": 101,
+  "StokID": 110
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c61"
+  },
+  "UrunID": 2123,
+  "UrunAd": "Kazak",
+  "KategoriNo": 102,
+  "StokID": 203
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c62"
+  },
+  "UrunID": 2147,
+  "UrunAd": "Bluz",
+  "KategoriNo": 102,
+  "StokID": 209
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c63"
+  },
+  "UrunID": 2354,
+  "UrunAd": "Tisört",
+  "KategoriNo": 102,
+  "StokID": 210
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c64"
+  },
+  "UrunID": 2564,
+  "UrunAd": "Tisört",
+  "KategoriNo": 102,
+  "StokID": 215
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c65"
+  },
+  "UrunID": 3475,
+  "UrunAd": "Sort",
+  "KategoriNo": 103,
+  "StokID": 305
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c66"
+  },
+  "UrunID": 3524,
+  "UrunAd": "Jean",
+  "KategoriNo": 103,
+  "StokID": 310
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c67"
+  },
+  "UrunID": 3652,
+  "UrunAd": "Etek",
+  "KategoriNo": 103,
+  "StokID": 320
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c68"
+  },
+  "UrunID": 4512,
+  "UrunAd": "Bot",
+  "KategoriNo": 104,
+  "StokID": 406
+},
+{
+  "_id": {
+    "$oid": "69568c5b5893a534efa43c69"
+  },
+  "UrunID": 5624,
+  "UrunAd": "Kemer",
+  "KategoriNo": 105,
+  "StokID": 506
+}]

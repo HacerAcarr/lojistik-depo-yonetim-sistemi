@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "695687455893a534efa43bde"
+  },
+  "KategoriNo": 101,
+  "KategoriAd": "Dis Giyim"
+},
+{
+  "_id": {
+    "$oid": "695687455893a534efa43bdf"
+  },
+  "KategoriNo": 102,
+  "KategoriAd": "Üst Giyim"
+},
+{
+  "_id": {
+    "$oid": "695687455893a534efa43be0"
+  },
+  "KategoriNo": 103,
+  "KategoriAd": "Alt Giyim"
+},
+{
+  "_id": {
+    "$oid": "695687455893a534efa43be1"
+  },
+  "KategoriNo": 104,
+  "KategoriAd": "Ayakkabi"
+},
+{
+  "_id": {
+    "$oid": "695687455893a534efa43be2"
+  },
+  "KategoriNo": 105,
+  "KategoriAd": "Aksesuar"
+}]

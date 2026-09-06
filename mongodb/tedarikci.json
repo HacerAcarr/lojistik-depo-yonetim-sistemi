@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c52"
+  },
+  "TedarikciID": "412365009",
+  "TedarikciVergiNo": "2013",
+  "TedarikciSehir": "Adana",
+  "TedarikciEposta": "AdanaTedarik@gmail.com",
+  "TedarikciTel": "5154567895"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c53"
+  },
+  "TedarikciID": "4125783658",
+  "TedarikciVergiNo": "2003",
+  "TedarikciSehir": "Kirsehir",
+  "TedarikciEposta": "kirtedarik@gmail.com",
+  "TedarikciTel": "5552415263"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c54"
+  },
+  "TedarikciID": "421589647",
+  "TedarikciVergiNo": "2007",
+  "TedarikciSehir": "Bursa",
+  "TedarikciEposta": "bbtedarik@gmail.com",
+  "TedarikciTel": "5565854163"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c55"
+  },
+  "TedarikciID": "423698520",
+  "TedarikciVergiNo": "5712",
+  "TedarikciSehir": "Bursa",
+  "TedarikciEposta": "BursaTedarik@gmail.com",
+  "TedarikciTel": "5521698745"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c56"
+  },
+  "TedarikciID": "451258784",
+  "TedarikciVergiNo": "7456",
+  "TedarikciSehir": "Ankara",
+  "TedarikciEposta": "ankatedarik@gmail.com",
+  "TedarikciTel": "5475219874"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c57"
+  },
+  "TedarikciID": "452365871",
+  "TedarikciVergiNo": "2456",
+  "TedarikciSehir": "Istanbul",
+  "TedarikciEposta": "itedarik@gmail.com",
+  "TedarikciTel": "5598521263"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c58"
+  },
+  "TedarikciID": "452369874",
+  "TedarikciVergiNo": "4521",
+  "TedarikciSehir": "Kirsehir",
+  "TedarikciEposta": "sehirtedarik@gmail.com",
+  "TedarikciTel": "5965415263"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c59"
+  },
+  "TedarikciID": "458545667",
+  "TedarikciVergiNo": "8546",
+  "TedarikciSehir": "Ankara",
+  "TedarikciEposta": "ankaratedarik@gmail.com",
+  "TedarikciTel": "5565415263"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c5a"
+  },
+  "TedarikciID": "487512365",
+  "TedarikciVergiNo": "4578",
+  "TedarikciSehir": "Istanbul",
+  "TedarikciEposta": "istatedarik@gmail.com",
+  "TedarikciTel": "5565496543"
+},
+{
+  "_id": {
+    "$oid": "69568bf65893a534efa43c5b"
+  },
+  "TedarikciID": "487569989",
+  "TedarikciVergiNo": "7845",
+  "TedarikciSehir": "Izmir",
+  "TedarikciEposta": "izlitedarik@gmail.com",
+  "TedarikciTel": "5565745263"
+}]

@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bf3"
+  },
+  "PersonelID": 50,
+  "PersonelTC": "12365412345",
+  "PersonelAdSoyad": "Selim KARA",
+  "PersonelTel": "5216485623",
+  "PersonelMaas": 25000,
+  "PersonelCinsiyet": "ERKEK",
+  "VardiyaID": 801,
+  "YoneticiID": 10004,
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bf4"
+  },
+  "PersonelID": 51,
+  "PersonelTC": "12365478963",
+  "PersonelAdSoyad": "Nalan DEMIR",
+  "PersonelTel": "5236547891",
+  "PersonelMaas": 30000,
+  "PersonelCinsiyet": "KADIN",
+  "VardiyaID": 802,
+  "YoneticiID": 10003,
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bf5"
+  },
+  "PersonelID": 52,
+  "PersonelTC": "12365478574",
+  "PersonelAdSoyad": "Ferhat ACAR",
+  "PersonelTel": "5321475146",
+  "PersonelMaas": 25000,
+  "PersonelCinsiyet": "ERKEK",
+  "VardiyaID": 803,
+  "YoneticiID": 10006,
+  "DepoID": 1
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bf6"
+  },
+  "PersonelID": 53,
+  "PersonelTC": "1245786385",
+  "PersonelAdSoyad": "Elif YAMAN",
+  "PersonelTel": "5231658741",
+  "PersonelMaas": 25000,
+  "PersonelCinsiyet": "KADIN",
+  "VardiyaID": 804,
+  "YoneticiID": 10003,
+  "DepoID": 2
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bf7"
+  },
+  "PersonelID": 54,
+  "PersonelTC": "14587961247",
+  "PersonelAdSoyad": "Melis KORAL",
+  "PersonelTel": "5462188533",
+  "PersonelMaas": 30000,
+  "PersonelCinsiyet": "KADIN",
+  "VardiyaID": 701,
+  "YoneticiID": 10005,
+  "DepoID": 2
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bf8"
+  },
+  "PersonelID": 55,
+  "PersonelTC": "25416387952",
+  "PersonelAdSoyad": "Tamer AKAL",
+  "PersonelTel": "5147952344",
+  "PersonelMaas": 25000,
+  "PersonelCinsiyet": "ERKEK",
+  "VardiyaID": 702,
+  "YoneticiID": 10005,
+  "DepoID": 2
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bf9"
+  },
+  "PersonelID": 56,
+  "PersonelTC": "36541258792",
+  "PersonelAdSoyad": "Cemal EREN",
+  "PersonelTel": "5621478512",
+  "PersonelMaas": 30000,
+  "PersonelCinsiyet": "ERKEK",
+  "VardiyaID": 703,
+  "YoneticiID": 10007,
+  "DepoID": 3
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bfa"
+  },
+  "PersonelID": 57,
+  "PersonelTC": "52135995458",
+  "PersonelAdSoyad": "Sibel ARAS",
+  "PersonelTel": "5552631553",
+  "PersonelMaas": 30000,
+  "PersonelCinsiyet": "KADIN",
+  "VardiyaID": 704,
+  "YoneticiID": 10005,
+  "DepoID": 3
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bfb"
+  },
+  "PersonelID": 58,
+  "PersonelTC": "52748596458",
+  "PersonelAdSoyad": "Kemal EREN",
+  "PersonelTel": "5552854653",
+  "PersonelMaas": 30000,
+  "PersonelCinsiyet": "ERKEK",
+  "VardiyaID": 705,
+  "YoneticiID": 10003,
+  "DepoID": 3
+},
+{
+  "_id": {
+    "$oid": "6956883c5893a534efa43bfc"
+  },
+  "PersonelID": 59,
+  "PersonelTC": "52541265458",
+  "PersonelAdSoyad": "Selami GÜVEN",
+  "PersonelTel": "5412631453",
+  "PersonelMaas": 25000,
+  "PersonelCinsiyet": "ERKEK",
+  "VardiyaID": 805,
+  "YoneticiID": 10007,
+  "DepoID": 3
+}]
