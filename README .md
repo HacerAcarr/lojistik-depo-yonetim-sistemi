@@ -9,12 +9,9 @@ Bu proje; modern lojistik operasyonlarında depolama, sevkiyat, envanter, filo v
 
 ---
 
-## 👥 Proje Ekibi (Grup 26)
+## 👥 Proje Sahibi
 
 * **Hacer Acar** - [GitHub Profili](https://github.com/HacerAcarr) (Öğrenci No: 1030310713)
-* **Sena Armutlukuyu** (Öğrenci No: 1030310847)
-* **Hazal Kardeş** (Öğrenci No: 1030310863)
-* **Fatıma Zehra Demiraslan** (Öğrenci No: 1030311082)
 
 ---
 
