@@ -1,143 +1,146 @@
-# 📦 Bir Lojistik Firmasının Depo Yönetim Sistemi (Warehouse Management System - WMS)
+📦 Warehouse Management System (WMS) for a Logistics Company
+This project is an end-to-end Warehouse Management System (WMS) engineering implementation designed to digitize warehousing, shipping, inventory, fleet, and personnel operations in modern logistics. It leverages relational (RDBMS) and document-based (NoSQL) database architectures alongside a desktop management interface.
 
-[![C#](https://img.shields.io/badge/C%23-.NET%20Framework%204.7.2-239120?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-2019%2B-CC292B?style=for-the-badge&logo=microsoftsqlserver)](https://www.microsoft.com/sql-server)
-[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL%20Database-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+👥 Project Author
+Hacer Acar - GitHub Profile (Student ID: 1030310713)
 
-Bu proje; modern lojistik operasyonlarında depolama, sevkiyat, envanter, filo ve personel süreçlerinin uçtan uca dijitalleştirilmesi, ilişkisel (RDBMS) ve doküman tabanlı (NoSQL) veritabanı mimarileri üzerinde modellenmesi ve masaüstü arayüzü ile yönetilmesi amacıyla geliştirilmiş kapsamlı bir **Depo Yönetim Sistemi (WMS)** mühendislik çalışmasıdır.
+🎯 Project Objectives & Scope
+Critical bottlenecks in supply chain and logistics include inventory discrepancies, inefficient fleet/driver routing, redundant data entry, and slow operational reporting. The primary objectives of this project are:
 
----
+Process Modeling: Enterprise-level modeling of warehouse inbound/outbound flows, order fulfillment, dispatching, and procurement cycles.
 
-## 👥 Proje Sahibi
+Relational Data Integrity (RDBMS): Normalization of raw datasets up to Third Normal Form (3NF) to eliminate anomalies on MS SQL Server.
 
-* **Hacer Acar** - [GitHub Profili](https://github.com/HacerAcarr) (Öğrenci No: 1030310713)
+Database-Level Business Logic: Encapsulation of operational constraints and rules within the database engine via Triggers, Stored Procedures, and User-Defined Functions (UDFs).
 
----
+Hybrid Data Architecture (SQL & NoSQL): Migration of transactional data to MongoDB to handle analytical queries, flexible schema requirements, and aggregation pipelines.
 
-## 🎯 Projenin Amacı ve Kapsamı
+Desktop Administration Interface: Centralized fleet and driver operations managed through a fully functional C# Windows Forms CRUD application.
 
-Tedarik zinciri ve lojistik sektöründeki en kritik darboğazlar; envanter kayıpları, verimsiz filo/şoför rotalaması, mükerrer veri girişleri ve yavaş operasyonel raporlamadır. Bu projenin temel hedefleri şunlardır:
+🛠 Tech Stack & Architecture
+Development Tools: Microsoft Visual Studio, SQL Server Management Studio (SSMS), MongoDB Compass & Mongosh
 
-1. **Süreç Modelleme:** Depo girdi-çıktı, sipariş karşılama, sevkiyat ve tedarik döngülerinin kurumsal ölçekte modellenmesi.
-2. **İlişkisel Veri Bütünlüğü (RDBMS):** Ham verilerin 3NF (Üçüncü Normal Form) seviyesine kadar normalizasyonu ve sıfır veri anormalliği ile MS SQL Server mimarisinde kurgulanması.
-3. **İş Mantığının Veritabanında Otomasyonu:** Tetikleyiciler (Triggers), Prosedürler (Stored Procedures) ve Fonksiyonlar (User-Defined Functions) aracılığıyla operasyonel kuralların veritabanı motoruna gömülmesi.
-4. **Hibrit Veri Modeli (SQL & NoSQL):** Hızlı analitik, esnek şema ve yatay ölçeklenebilirlik gerektiren senaryolar için verilerin MongoDB ortamına taşınarak Aggregation Pipeline ile analizi.
-5. **Kullanıcı Dostu Masaüstü Deneyimi:** C# Windows Forms üzerinden şoför ve filo operasyonlarının tam fonksiyonel CRUD modülleri ile yönetilmesi.
+Programming Language: C# (.NET Framework 4.7.2, Windows Forms, ADO.NET)
 
----
+Relational Database: Microsoft SQL Server (T-SQL, Triggers, Functions, Stored Procedures, DDL/DML)
 
-## 🛠 Kullanılan Teknolojiler ve Mimari
+Document Database: MongoDB (BSON/JSON, Aggregation Framework: $lookup, $unwind, $match, $group)
 
-* **Geliştirme Ortamı:** Microsoft Visual Studio, SQL Server Management Studio (SSMS), MongoDB Compass & Mongosh
-* **Programlama Dili:** C# (.NET Framework 4.7.2, Windows Forms, ADO.NET)
-* **İlişkisel Veritabanı:** Microsoft SQL Server (T-SQL, Triggers, Functions, Stored Procedures, DDL/DML)
-* **Doküman Tabanlı Veritabanı:** MongoDB (BSON/JSON, Aggregation Framework: `$lookup`, `$unwind`, `$match`, `$group`)
-* **Tasarım & Modelleme:** ER Diyagramı (Chen Notasyonu), UML Sınıf Diyagramları
+Design & Modeling: ER Diagram (Chen Notation), UML Class Diagrams
 
----
+🚀 Development Lifecycle (8 Tasks)
+📌 Task 1: Entity-Relationship (ER) Diagram
+Modeled 15 core entities (Customer, Order, OrderDetail, Invoice, Shipment, CompanyVehicle, Driver, Warehouse, Stock, Product, Category, Employee, Manager, Shift, Supplier, Supply) along with their 1:1, 1:N, and M:N cardinality constraints.
 
-## 🚀 Proje Geliştirme Aşamaları (8 Görev)
+📌 Task 2: UML Class Diagram (Object-Oriented Design)
+Designed domain models following OOP standards, specifying attributes, access modifiers, operational methods, and inheritance hierarchies (e.g., Manager inheriting from Employee).
 
-### 📌 Görev 1: Varlık-İlişki (ER) Diyagramı
-Sistem bünyesindeki 15 temel varlık (`Müşteri`, `Sipariş`, `Sipariş Detayı`, `Fatura`, `Taşıma`, `Firma Aracı`, `Şoför`, `Depo`, `Stok`, `Ürün`, `Kategori`, `Personel`, `Yönetici`, `Vardiya`, `Tedarikçi`, `Tedarik`) ve aralarındaki 1:1, 1:N ve M:N cardinalite ilişkileri detaylıca kurgulanmıştır.
+📌 Task 3: Database Normalization (1NF, 2NF, 3NF)
+Raw Table Analysis: Identified unnormalized datasets containing multivalued attributes and update/delete anomalies.
 
-### 📌 Görev 2: UML Sınıf Diyagramı (Object-Oriented Design)
-Nesne yönelimli programlama standartlarına uygun olarak sınıfların nitelikleri (attributes), erişim belirteçleri, metotları (methods) ve kalıtım yapıları (`Yönetici` sınıfının `Personel` sınıfından kalıtım alması) modellenmiştir.
+1NF: Enforced atomic column values and defined composite primary keys.
 
-### 📌 Görev 3: Veritabanı Normalizasyonu (1NF, 2NF, 3NF)
-* **Ham Tablo Analizi:** Çok değerli (multivalued) nitelikler içeren ve anormallik barındıran tek parça ham tablonun analizi.
-* **1NF:** Hücrelerdeki birden çok veri atomik hale getirilmiş, her satır benzersizleştirilmiştir.
-* **2NF:** Kısmi fonksiyonel bağımlılıklar (partial dependencies) elenerek ilişkisel alt tablolar oluşturulmuştur.
-* **3NF:** Geçişli bağımlılıklar (transitive dependencies) kaldırılmıştır (`KategoriNo -> KategoriAd` ilişkisi `Ürün` tablosundan ayrıştırılmış, `AraToplam` ve `DolulukOranı` gibi hesaplanabilir türetilmiş sütunlar optimize edilmiştir).
+2NF: Removed partial functional dependencies by isolating functional sub-tables.
 
-### 📌 Görev 4: MS SQL Server Şema Tasarımı & Veri Yükleme
-Normalizasyon sonucu elde edilen ilişkisel tablolar, `PRIMARY KEY` ve `FOREIGN KEY` referans kısıtları ile oluşturulmuş, ardından gerçekçi test veri setleri `INSERT INTO` betikleri ile veritabanına aktarılmıştır.
+3NF: Eliminated transitive dependencies (e.g., decoupled CategoryID -> CategoryName from the product schema, optimized derived attributes like subtotal and fill rates).
 
-### 📌 Görev 5: SQL Sorguları (Temel, DML, Gelişmiş Analitik)
-* **15 Temel Sorgu:** `GROUP BY`, `HAVING`, `ORDER BY`, `SUM`, `AVG`, `COUNT`, `MIN`, `MAX` fonksiyonları ile operasyonel metrik çıkarımları.
-* **6 DML Sorgusu:** Dinamik koşullu `INSERT`, `UPDATE` ve `DELETE` operasyonları.
-* **11 Gelişmiş Sorgu:** Çoklu `INNER JOIN`, `LEFT/RIGHT OUTER JOIN`, `EXISTS`, `IN` ve ilişkili alt sorgular (Correlated Subqueries).
+📌 Task 4: MS SQL Server Schema & Data Seeding
+Generated normalized tables with explicit PRIMARY KEY, FOREIGN KEY, and CHECK constraints, followed by comprehensive synthetic data population via INSERT INTO scripts.
 
-### 📌 Görev 6: Programlanabilir SQL Nesneleri
-* **7 Trigger (Tetikleyici):**
-  * `Trg_PersonelSil`: Silinen personelleri `TabloEskiPersonel` tablosuna arşivleme.
-  * `Trg_MaasGuncelleme`: Maaş düşürmeyi engelleyip artışları `Guncelleme` tablosuna loglama.
-  * `Trg_SoforuPasifYapma`: Silinen şoförü silmek yerine ilişkileri korumak için `PASİF` durumuna alma (`INSTEAD OF DELETE`).
-  * `Trg_Koruma`: Veritabanı seviyesinde tablo silme/değiştirmeyi önleme (`FOR DROP_TABLE, ALTER_TABLE`).
-  * `Trg_DepoDolulukOrani`: Kapasite aşımını (%100) kontrol eden ve doluluk sınıfı belirleyen kural motoru.
-  * `Trg_UrunRafaYerlesme` & `Trg_TedarikBilgi`: Tedarik kabulü ve raflama süreçlerini otomatize eden tetikleyiciler.
-* **7 User-Defined Function (UDF):** Tablo değerli fonksiyonlar (`TedarikciUrunleri`, `UrunBilgisi`) ve skaler fonksiyonlar (ehliyet sınıfı yetki denetimi, doğum yılından yaş hesabı, filo müsaitlik sorguları).
-* **5 Stored Procedure:** Cursor kullanarak şoför sevkiyat atamaları (`SoforGorevAta`), dinamik prim dağıtımı (`PersonelePrim`), fatura indirim kuralları (`Indirim`) ve depo envanter özetleri (`DepoBilgi`).
+📌 Task 5: SQL Queries (Basic, DML, Advanced Analytics)
+15 Analytical Queries: Group aggregations and operational metrics using GROUP BY, HAVING, SUM, AVG, COUNT, MIN, and MAX.
 
-### 📌 Görev 7: JSON Dönüşümü ve MongoDB (NoSQL) Pipeline
-* İlişkisel veriler `FOR JSON AUTO` ile JSON formatına dönüştürülmüştür.
-* MongoDB üzerinde 11 koleksiyon oluşturularak veriler BSON formatında indekslenmiştir.
-* MongoDB Aggregation Pipeline ile `$lookup` ve `$unwind` kullanılarak NoSQL üzerinde JOIN işlemleri gerçekleştirilmiş; `$group` ve `$match` operatörleriyle analitik raporlamalar üretilmiştir.
+6 DML Queries: Dynamic conditional INSERT, UPDATE, and DELETE transactions.
 
-### 📌 Görev 8: C# Windows Forms Yönetim Paneli
-* `MenuStrip` mimarisiyle tasarlanmış kurumsal ana dashboard.
-* **Firma Araçları Yönetimi:** Yeni araç ekleme, silme, plaka/model güncelleme ve `DataGridView` ile dinamik listeleme.
-* **Şoför Yönetimi:** Şoför kaydı, lisans ve müsaitlik durumu takibi, güvenli silme ve anlık listeleme.
-* Parametrik SQL komutları (`SqlParameter`) ile SQL Injection risklerine karşı tam koruma.
+11 Advanced Queries: Multi-table joins (INNER JOIN, LEFT/RIGHT OUTER JOIN), subqueries, and correlated subqueries with EXISTS and IN.
 
----
+📌 Task 6: Programmable Database Objects
+7 Triggers:
 
-## 📂 Proje Dizin Yapısı
+Trg_PersonelSil: Archives deleted employee records into TabloEskiPersonel.
 
-## 📂 Proje Dizin Yapısı
+Trg_MaasGuncelleme: Restricts salary deductions and logs salary increments into Guncelleme.
 
-```plaintext
-📦 Lojistik-Depo-Yonetim-Sistemi
+Trg_SoforuPasifYapma: Soft-deletes drivers by updating status to PASIF via INSTEAD OF DELETE to preserve foreign key references.
+
+Trg_Koruma: DDL trigger preventing accidental schema alterations (FOR DROP_TABLE, ALTER_TABLE).
+
+Trg_DepoDolulukOrani: Validates warehouse capacity thresholds (100% capacity check) and assigns occupancy tiers.
+
+Trg_UrunRafaYerlesme & Trg_TedarikBilgi: Automates inbound goods acceptance and inventory placement.
+
+7 User-Defined Functions (UDFs): Table-valued functions (TedarikciUrunleri, UrunBilgisi) and scalar functions for driving license validation, age calculations, and vehicle availability lookups.
+
+5 Stored Procedures: Cursor-driven driver shipment dispatching (SoforGorevAta), dynamic employee bonuses (PersonelePrim), tiered invoice discounts (Indirim), and inventory summaries (DepoBilgi).
+
+📌 Task 7: JSON Transformation & MongoDB Pipeline
+Exported relational datasets using SQL Server's FOR JSON AUTO clause.
+
+Populated 11 collections in MongoDB and configured indexes on document keys.
+
+Executed Aggregation Pipelines using $lookup and $unwind for document joins, alongside $group and $match stages for analytical reports.
+
+📌 Task 8: C# Windows Forms Admin Panel
+Centralized desktop dashboard structured with MenuStrip controls.
+
+Fleet Management: Vehicle registration, status tracking, license plate/model updates, and dynamic tabular viewing via DataGridView.
+
+Driver Management: Registration, license validation, real-time availability tracking, and soft-delete routines.
+
+Secure database interactions built with parameterized queries (SqlParameter) against SQL injection vulnerabilities.
+
+📂 Project Directory Structure
+Plaintext
+📦 Logistics-Warehouse-Management-System
 ├── 📁 docs
-│   ├── final-raporu.pdf             # Akademik Proje Final Raporu
-│   ├── normalizasyon-detaylari.pdf  # 1NF, 2NF, 3NF Normalizasyon Süreçleri
-│   └── vize-raporu.pdf              # Vize Dönemi Veritabanı Raporu
+│   ├── final-report.pdf              # Academic Project Final Report
+│   ├── normalization-details.pdf     # 1NF, 2NF, 3NF Normalization Documentation
+│   └── midterm-report.pdf            # Midterm Database Design Report
 ├── 📁 diagrams
-│   ├── er-diyagrami.pdf             # Varlık-İlişki Diyagramı (Görev 1)
-│   ├── uml-diyagrami.pdf            # UML Sınıf Diyagramı (Görev 2)
-│   └── varlik-iliski-diyagrami.dwg  # AutoCAD Çizimi
+│   ├── er-diagram.pdf                # Entity-Relationship Diagram (Task 1)
+│   ├── uml-diagram.pdf               # UML Class Diagram (Task 2)
+│   └── er-diagram.dwg                # AutoCAD Source Drawing
 ├── 📁 mongodb
-│   ├── 📁 data                      # Dışa aktarılan JSON koleksiyonları
-│   └── mongodb-aktarim-sorgulari.sql # Mongosh ve Compass sorguları (Görev 7)
+│   ├── 📁 data                       # Exported JSON collections
+│   └── mongodb-pipeline-queries.sql  # Mongosh and Compass Aggregation Scripts (Task 7)
 ├── 📁 sql
-│   ├── 00-init-database.sql         # Veritabanı ve Tablo Oluşturma Şeması
-│   ├── 01-data-seed.sql             # Test Verileri ve INSERT İşlemleri
-│   ├── gorev-5-sorgular.sql         # Temel ve Gelişmiş Sorgular
-│   └── gorev-6-trigger-fonksiyon.sql # Trigger, Procedure, Function
+│   ├── 00-init-database.sql          # Database and Table DDL Schema
+│   ├── 01-data-seed.sql              # Mock Data and INSERT Scripts
+│   ├── task-5-queries.sql            # Basic and Advanced SQL Queries
+│   └── task-6-programmability.sql    # Triggers, Stored Procedures, Functions
 ├── 📁 src
-│   └── 📁 DepoYonetimApp            # C# Windows Forms Proje Kaynak Kodları
-│       ├── DepoYonetimApp.sln       # Visual Studio Çözüm Dosyası
-│       ├── App.config               # Veritabanı Connection String
-│       └── ...                      # Formlar ve C# Sınıfları
-└── README.md                        # Proje Dokümantasyonu
-```
+│   └── 📁 DepoYonetimApp             # C# Windows Forms Application Source Code
+│       ├── DepoYonetimApp.sln        # Visual Studio Solution File
+│       ├── App.config                # Database Connection String
+│       └── ...                       # Form Views and Controller Logic
+└── README.md                         # Project Documentation
+⚙️ Installation & Setup
+1. Database Setup (MS SQL Server)
+Launch SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
 
----
+Open and execute sql/00-init-database.sql followed by sql/01-data-seed.sql to initialize schema definitions and seed data.
 
-## ⚙️ Kurulum ve Çalıştırma Adımları
+Open and execute sql/task-6-programmability.sql to register all triggers, stored procedures, and functions.
 
-### 1. Veritabanının Kurulumu (MS SQL Server)
-1. SQL Server Management Studio (SSMS) uygulamasını açın ve sunucunuza bağlanın.
-2. sql/00-init-database.sql ve sql/01-data-seed.sql dosyalarını sırasıyla açıp çalıştırın (Execute). Bu işlem BirLojistikFirmasininDepoYonetimSistemi (veya Grup26) veritabanını, tabloları ve örnek kayıtları oluşturacaktır.
-3. sql/gorev-6-trigger-fonksiyon.sql dosyasını çalıştırarak trigger, fonksiyon ve prosedürleri yükleyin.
+2. NoSQL Configuration (MongoDB)
+Open MongoDB Compass or initialize mongosh connected to your local instance (mongodb://localhost:27017/).
 
-### 2. NoSQL Ortamının Hazırlanması (MongoDB)
-1. MongoDB Compass veya Mongosh uygulamasını açarak yerel sunucunuza (mongodb://localhost:27017/) bağlanın.
-2. use Grup26 komutu ile yeni bir veritabanı alanı oluşturun.
-3. mongodb/data/ dizinindeki JSON dosyalarını ilgili koleksiyonlara (depo, musteri, personel, vb.) aktarın (Import Data).
-4. mongodb/mongodb-aktarim-sorgulari.sql dosyasındaki aggregate sorgularını çalıştırabilirsiniz.
+Create or switch to the target database:
 
-### 3. C# Arayüzünün Çalıştırılması
-1. src/DepoYonetimApp/DepoYonetimApp.sln dosyasını Visual Studio ile açın.
-2. App.config ve form sınıfları içerisindeki connectionString alanını kendi yerel SQL Server örneğinize göre doğrulayın:
-   ```csharp
-   SqlConnection baglanti = new SqlConnection("Data Source=.;Initial Catalog=Grup26;Integrated Security=True");
-   ```
-3. Projeyi derleyin (`Build Solution`) ve `F5` tuşuna basarak başlatın.
+JavaScript
+use Grup26
+Import the JSON datasets located in mongodb/data/ into their corresponding collections (depo, musteri, personel, etc.).
 
----
+Run analytical aggregation queries from mongodb/mongodb-pipeline-queries.sql.
 
-## 📜 Lisans
+3. Running the C# Desktop Client
+Open src/DepoYonetimApp/DepoYonetimApp.sln in Visual Studio.
 
-Bu proje akademik ve eğitim amaçlı geliştirilmiş olup **MIT Lisansı** kapsamında açık kaynak olarak paylaşılmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
+Update the connectionString in App.config or within the form code behind to match your local SQL Server instance:
+
+C#
+SqlConnection baglanti = new SqlConnection("Data Source=.;Initial Catalog=Grup26;Integrated Security=True");
+Build the solution (Ctrl + Shift + B) and run the application (F5).
+
+📜 License
+This project is distributed under the MIT License. Refer to the LICENSE file for full terms and conditions. buda ingiizce olmusu amma velakin oraya koyamadım
