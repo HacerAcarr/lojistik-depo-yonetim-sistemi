@@ -91,6 +91,7 @@ Generated normalized tables with explicit PRIMARY KEY, FOREIGN KEY, and CHECK co
 │       ├── App.config                # Database Connection String
 │       └── ...                       # Form Views and Controller Logic
 └── README.md                         # Project Documentation
+```
 ⚙️ Installation & Setup
 1. Database Setup (MS SQL Server)
 Launch SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
